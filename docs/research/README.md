@@ -1,5 +1,5 @@
 ---
-title: "docs/research/ (repo-kit)"
+title: "docs/research/ (ai-toolkit)"
 description: "Index of kit-maintainer research notes. This directory has no live notes."
 version: "1.8.0"
 status: current
@@ -7,7 +7,7 @@ doc_type: index
 last_updated: "2026-11-01"
 ---
 
-# docs/research/ (repo-kit)
+# docs/research/ (ai-toolkit)
 
 Index of kit-maintainer research notes. This directory has no live notes.
 

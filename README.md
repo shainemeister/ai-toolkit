@@ -1,15 +1,15 @@
 # Repository Standards Kit
 
-`repo-kit` is a portable standards kit. Copy `kit/` into a repository. The host files an install may add are `AGENTS.md`, `MEMORY.md`, `WORKBOARD.md`, and `ARCHITECTURE.md`. Replacing `kit/` leaves those four files in place.
+`ai-toolkit` is a portable standards kit. Copy `kit/` into a repository. The host files an install may add are `AGENTS.md`, `MEMORY.md`, `WORKBOARD.md`, and `ARCHITECTURE.md`. Replacing `kit/` leaves those four files in place.
 
 ## Overview
 
 The kit keeps a repository consistent for any harness. Law stays in `kit/`. Purpose and architectural framework stay in the root `ARCHITECTURE.md`. A framework module under `docs/library/frameworks/` is a copy-paste `ARCHITECTURE.md` a user or a program places on that root path. The kit enforces the root file. It does not write it.
 
-There is no package install. The dependency is git. Source: https://github.com/shainemeister/repo-kit. Licensed under MIT — [LICENSE](LICENSE).
+There is no package install. The dependency is git. Source: https://github.com/shainemeister/ai-toolkit. Licensed under MIT — [LICENSE](LICENSE).
 
 ```text
-repo-kit
+ai-toolkit
 ├── kit/                         swappable module. law, rules, procedures
 ├── AGENTS.md                    session order
 ├── MEMORY.md                    agent notepad

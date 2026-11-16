@@ -14,3 +14,5 @@ The user pointed at `docs/library/frameworks/dev/core-principles-of-application-
 `kit/rules/git-commit.md` is the commit brief. The message procedure is `kit/skills/kit-commit/SKILL.md`. Citations now match: rules index 1.0.1, versioning 2.3.1, and `kit/RULES.md` 4.2.1. The commit-message owner in the authority map is the procedure.
 
 The user said to commit local work and not merge. The in-progress merge of `9b44f1a` was aborted. Local `main` and `origin/main` remain diverged. That remote commit is still on GitHub.
+
+Use `ai-toolkit` in this repository's document branding. Preserve actual repository names in catalog metadata.

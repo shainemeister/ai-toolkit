@@ -1,5 +1,5 @@
 ---
-title: "docs/plan/ (repo-kit)"
+title: "docs/plan/ (ai-toolkit)"
 description: "Index of detailed execution plans and program annexes. Open when adding a plan or checking whether an annex is live on the workboard."
 version: "1.0.17"
 status: current
@@ -7,7 +7,7 @@ doc_type: index
 last_updated: "2026-10-19"
 ---
 
-# docs/plan/ (repo-kit)
+# docs/plan/ (ai-toolkit)
 
 Index of detailed execution plans and program annexes. Open when adding a plan or checking whether an annex is live on the workboard.
 
